@@ -15,3 +15,4 @@ The task is to accept Pull Requests based on a unique theme for a top ten list (
 8. participating lives
 9. hitting the sauna
 10. collecting local specialties
+11. sleeping
