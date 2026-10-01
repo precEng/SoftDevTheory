@@ -9,9 +9,9 @@ The task is to accept Pull Requests based on a unique theme for a top ten list (
 2. Illaoi
 3. Sion
 4. Nasus
-5. Yorick
+5. Garen
 6. Malphite
 7. Yuumi
-8. Garen
+8. Yorick
 9. Ornn
 10. Cho'Gath
