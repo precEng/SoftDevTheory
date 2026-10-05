@@ -34,7 +34,8 @@ This is not a general list of Japanese dishes. A classmate already posted "TOP 1
    Oatmeal microwaved with milk, topped with banana and protein powder.
 9. 無糖ヨーグルトにバナナとプロテインを混ぜる
    Unsweetened yogurt mixed with banana and protein powder.
-10. Open — please add one item by pull request.
+10. Chicken Teriyaki rice bowl.
+11. Open — please add one item by pull request.
     クラスメイトからの1品。useful、clear、かつ 1–9 と重複しないものを1つ。
 
 # How to contribute
