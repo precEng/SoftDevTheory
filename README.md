@@ -7,7 +7,7 @@ The task is to accept Pull Requests based on a unique theme for a top ten list (
 # Listing Top 10 animals
 1.panda
 
-2.deer
+2.shark
 
 3.armadillo
 
